@@ -1,0 +1,133 @@
+[
+  {
+    "select": true,
+    "brand": {
+      "name": "Wix",
+      "comment": 2
+    },
+    "description": "Wix is a leading cloud-based development platform with millions of users worldwide. Create stunning websites with ease.",
+    "members": ["John", "Alice", "Michael", "Sophia", "David", "Matthew"],
+    "categories": ["Automation"],
+    "tags": ["DigitalTransformation", "WebsiteBuilder", "OnlineBusiness"],
+    "next_meeting": "Tomorrow"
+  },
+  {
+    "select": false,
+    "brand": {
+      "name": "Shopify",
+      "comment": 0
+    },
+    "description": "Shopify is an all-in-one ecommerce platform trusted by businesses of all sizes. Sell online with ease.",
+    "members": ["Robert", "Emily", "William", "Olivia"],
+    "categories": ["E-commerce", "B2B"],
+    "tags": ["OnlineShopping", "EcommercePlatform", "OnlineStore"],
+    "next_meeting": "in 30 minutes"
+  },
+  {
+    "select": true,
+    "brand": {
+      "name": "MailChimp",
+      "comment": 0
+    },
+    "description": "MailChimp is a powerful marketing automation platform. Build and manage email campaigns with ease.",
+    "members": ["Sophia", "Michael", "Daniel", "Emma"],
+    "categories": ["SAAS", "Mobile"],
+    "tags": ["EmailMarketing", "MarketingAutomation", "EmailCampaigns"],
+    "next_meeting": "in 6 hours"
+  },
+  {
+    "select": false,
+    "brand": {
+      "name": "Paypal",
+      "comment": 7
+    },
+    "description": "PayPal is a trusted online payment platform for businesses and consumers. Send and receive payments securely.",
+    "members": ["Olivia", "William", "James", "Emma", "Christopher", "Ava"],
+    "categories": ["Marketplace"],
+    "tags": ["PaymentGateway", "OnlinePayments", "SecureTransactions"],
+    "next_meeting": "next month"
+  },
+  {
+    "select": true,
+    "brand": {
+      "name": "Disney",
+      "comment": 0
+    },
+    "description": "Disney is a global entertainment company known for its iconic characters and storytelling. Experience the magic.",
+    "members": ["James", "Emma"],
+    "categories": ["B2B", "B2C"],
+    "tags": ["FamilyEntertainment", "ThemeParks", "Animation"],
+    "next_meeting": "no contact"
+  },
+  {
+    "select": false,
+    "brand": {
+      "name": "Intercom",
+      "comment": 9
+    },
+    "description": "Intercom is a customer communication platform offering messaging products for sales, marketing, and support teams.",
+    "members": ["David", "Isabella", "Daniel", "Ava", "Matthew"],
+    "categories": ["Technology", "SAAS"],
+    "tags": ["CustomerCommunication", "LiveChat", "CustomerSupport"],
+    "next_meeting": "Tomorrow"
+  },
+  {
+    "select": true,
+    "brand": {
+      "name": "Google",
+      "comment": 5
+    },
+    "description": "Google is a multinational technology company specializing in Internet-related services and products.",
+    "members": [
+      "Daniel",
+      "Ava",
+      "Christopher",
+      "Charlotte",
+      "John",
+      "Andrew",
+      "Ella",
+      "Isabella",
+      "Michael",
+      "Robert"
+    ],
+    "categories": ["Finance", "Automation"],
+    "tags": ["SearchEngine", "CloudComputing", "SoftwareDevelopment"],
+    "next_meeting": "in 30 minutes"
+  },
+  {
+    "select": false,
+    "brand": {
+      "name": "Evernote",
+      "comment": 0
+    },
+    "description": "Evernote is a note-taking app designed for organizing and archiving ideas, tasks, and projects.",
+    "members": ["Matthew", "Mia", "Sophia"],
+    "categories": ["Transportation"],
+    "tags": ["NoteTaking", "ProductivityTool", "TaskManagement"],
+    "next_meeting": "in 6 hours"
+  },
+  {
+    "select": true,
+    "brand": {
+      "name": "Microsoft",
+      "comment": 14
+    },
+    "description": "Microsoft is a multinational technology company known for its software products and services, including Windows and Office.",
+    "members": ["Christopher", "Charlotte", "William", "Olivia", "David"],
+    "categories": ["Publishing", "B2C"],
+    "tags": ["SoftwareDevelopment", "ProductivitySuite", "CloudServices"],
+    "next_meeting": "next month"
+  },
+  {
+    "select": false,
+    "brand": {
+      "name": "Invision",
+      "comment": 0
+    },
+    "description": "InVision is a digital product design platform used by companies to create and collaborate on prototypes and designs.",
+    "members": ["Andrew", "Ella"],
+    "categories": ["Web Services"],
+    "tags": ["Prototyping", "UIUXDesign", "DesignCollaboration"],
+    "next_meeting": "no contact"
+  }
+]

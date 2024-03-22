@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbar_remover {
+  overflow-x: auto;
+}
+.scrollbar_remover::-webkit-scrollbar {
+  width: 0.4rem;
+}
+.scrollbar_remover::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+
+.checkbox-custom {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}
+
+.checkbox-custom:checked {
+  background-color: black;
+}
+
+.checkbox-custom:checked::after {
+  content: "\2713";
+  color: white;
+  font-size: 16px;
+  display: block;
+  text-align: center;
+  line-height: 20px;
+}
